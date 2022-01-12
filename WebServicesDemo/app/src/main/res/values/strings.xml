@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Web Services Demo</string>
+    <string name="baseUrl_FirstApp">https://personal-4tsbotsx.outsystemscloud.com/Android/rest/DemoAPI/</string>
+    <string name="baseUrl_SecondApp">https://personal-wovpawyr.outsystemscloud.com/WebServices_Demo/rest/DemoAPI/</string>
+    <string name="btClearResults">Clear Results</string>
+    <string name="btGetAllProducts">Get All Products</string>
+    <string name="btGetProductById">Get Product By Id</string>
+    <string name="btCreateProduct">Create Product</string>
+    <string name="btUpdateProduct">Update Product</string>
+    <string name="btDeleteProduct">Delete Product</string>
+    <string name="editTextProductIdHint">Product Id</string>
+    <string name="editTextProductNameHint">Product Name</string>
+    <string name="editTextProductPriceHint">Product Price</string>
+</resources>
